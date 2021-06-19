@@ -1,0 +1,119 @@
+.div1{
+   
+    border: 1px solid #ccc;
+    justify-self: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);;
+    box-shadow: 13px 13px 20px #cbced1,
+    -13px -13px 20px #ffffff;
+    overflow: hidden;
+
+   vertical-align: middle;
+}
+    body{
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color:rgb(202, 178, 178);
+}
+.input{
+    width: 345px;
+    height: 50px;
+ text-align: right;
+ font-size: 20px;
+ background-color: #252525;
+ color: #fff;
+ padding-right: 20px;
+ right: 10px;
+ box-shadow: inset 13px 13px 20px;
+ border-radius: 5px;
+ 
+}
+.tdclass{
+    width:70px;
+    height: 70px;
+    
+}
+tr,td{
+   border: outset;
+    text-align: center;
+    vertical-align: middle;
+    background-color: aqua;
+}
+button{
+    width:70px;
+    height: 70px;
+  border-radius: 10px;
+border: none;
+    font-size: 20px;
+    border: 1px solid #c4c4c4;
+    background-color: transparent;
+    font-size: 2rem;
+    color: #333;
+  background-image: linear-gradient(to bottom,transparent,transparent 50%,rgba(0,0,0,.04));
+  
+}
+#tdid24{
+    height: 300px;
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+}
+button:hover {
+    background-color: #eaeaea;
+  }
+
+  #tdid52 {
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+  }
+  #tdid52:hover {
+    background-color: #f17377;
+  }
+  #tdid24:hover {
+    background-color: #f17377;
+  }
+
+  #tdid23 {
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+  }
+  #tdid23:hover {
+    background-color: #f17377;
+  }
+  #tdid33 {
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+  }
+  #tdid33:hover {
+    background-color: #f17377;
+  }
+  #tdid43 {
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+  }
+  #tdid43:hover {
+    background-color: #f17377;
+  }
+  #tdid53 {
+    background-color: #f0595f;
+    border-color: #b0353a;
+    color: #fff;
+  }
+  #tdid53:hover {
+    background-color: #f17377;
+  }
+#result{
+    width: 350px;
+    background-color: #fff;
+    color: #252525;;
+    font-size: 30px;
+}
+ 
